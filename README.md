@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on software engineer field as a software engineer <br/>
+🔭 I’m currently working on software engineering field as a software engineer <br/>
 🌱 I’m currently learning at education university indonesia
 
 <!--
