@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on software engineering field as a software engineer <br/>
-🌱 I’m currently learning at education university indonesia
+🌱 I’m currently student at education university indonesia
 
 <!--
 **Amzar123/Amzar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
