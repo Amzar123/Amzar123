@@ -1,7 +1,6 @@
 I am Aji Muhammad Zapar, people call me Aji, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aji%20Muhammad%20Zapar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aji-muhammad-zapar/)](https://www.linkedin.com/in/aji-muhammad-zapar/)
-[![Instagram Badge](https://img.shields.io/badge/-a___zapar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/a___zapar/)](https://instagram.com/a___zapar)
 [![Gmail Badge](https://img.shields.io/badge/-aji.zapar00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aji.zapar00@gmail.com)](mailto:aji.zapar00@gmail.com)
 
 ## ⚡ Technologies
